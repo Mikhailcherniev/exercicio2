@@ -1,0 +1,7 @@
+C:\Users\46287762888\Desktop\CSharp\exe2-CSharp\exe2-CSharp\bin\Debug\exe2-CSharp.exe.config
+C:\Users\46287762888\Desktop\CSharp\exe2-CSharp\exe2-CSharp\bin\Debug\exe2-CSharp.exe
+C:\Users\46287762888\Desktop\CSharp\exe2-CSharp\exe2-CSharp\bin\Debug\exe2-CSharp.pdb
+C:\Users\46287762888\Desktop\CSharp\exe2-CSharp\exe2-CSharp\obj\Debug\exe2-CSharp.csproj.AssemblyReference.cache
+C:\Users\46287762888\Desktop\CSharp\exe2-CSharp\exe2-CSharp\obj\Debug\exe2-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\46287762888\Desktop\CSharp\exe2-CSharp\exe2-CSharp\obj\Debug\exe2-CSharp.exe
+C:\Users\46287762888\Desktop\CSharp\exe2-CSharp\exe2-CSharp\obj\Debug\exe2-CSharp.pdb
